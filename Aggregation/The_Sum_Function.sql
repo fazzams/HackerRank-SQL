@@ -27,4 +27,5 @@ How many days since it was started?
 Something big is coming
 Keep going, and no need to look back
 Keep going
+sum of my life experiences
 */
