@@ -45,4 +45,5 @@ How many days since then?
 sum of experience
 Istiqomah even just a little
 do not surrender
+Vazzams
 */
